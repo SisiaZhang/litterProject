@@ -1,0 +1,13 @@
+div {
+  position: relative;
+}
+div canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: 0 auto;
+}
+div #canvas2 {
+  border-radius: 50%;
+  box-shadow: 10px 10px #665858;
+}
